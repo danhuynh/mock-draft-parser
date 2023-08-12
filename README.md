@@ -1,6 +1,13 @@
 # Yahoo Salary Cap Mock Draft Parsing Tool
 
-This tool is designed to parse mock draft results from a given string and export it to a CSV file. The data should include details like the player's number, team, name, team code, position, and price.
+This tool is designed to parse emailed mock draft results from a given string and export it to a CSV file. The data should include details like the player's number, team, name, team code, position, and price.
+
+## Dataset Example
+(1) Peter - Bijan Robinson (Atl - RB) - $57
+(2) Connor - Trevor Lawrence (Jax - QB) - $9
+(3) Connor - Josh Jacobs (LV - RB) - $43
+(4) Peter - Justin Jefferson (Min - WR) - $71
+(5) Arash - Breece Hall (NYJ - RB) - $30
 
 ## How It Works
 
