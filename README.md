@@ -41,7 +41,7 @@ This tool is designed to parse emailed mock draft results from a given string an
 - **Adjusting the Parsing Pattern**: If the input data format changes, you may need to update the regular expression inside the `parse_line` function to match the new pattern.
 
 ## Dataset Example
-I copied and pasted these data directly from the list of emailed results.
+I copied and pasted these data directly from the list of emailed results.  
 (1) Peter - Bijan Robinson (Atl - RB) - $57  
 (2) Connor - Trevor Lawrence (Jax - QB) - $9  
 (3) Connor - Josh Jacobs (LV - RB) - $43  
