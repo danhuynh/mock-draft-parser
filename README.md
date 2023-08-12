@@ -42,11 +42,11 @@ This tool is designed to parse emailed mock draft results from a given string an
 
 ## Dataset Example
 I copied and pasted these data directly from the list of emailed results.
-(1) Peter - Bijan Robinson (Atl - RB) - $57 
-(2) Connor - Trevor Lawrence (Jax - QB) - $9 
-(3) Connor - Josh Jacobs (LV - RB) - $43 
-(4) Peter - Justin Jefferson (Min - WR) - $71 
-(5) Arash - Breece Hall (NYJ - RB) - $30 
+(1) Peter - Bijan Robinson (Atl - RB) - $57  
+(2) Connor - Trevor Lawrence (Jax - QB) - $9  
+(3) Connor - Josh Jacobs (LV - RB) - $43  
+(4) Peter - Justin Jefferson (Min - WR) - $71  
+(5) Arash - Breece Hall (NYJ - RB) - $30  
 
 ## Support
 
