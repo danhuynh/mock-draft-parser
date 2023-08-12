@@ -2,13 +2,6 @@
 
 This tool is designed to parse emailed mock draft results from a given string and export it to a CSV file. The data should include details like the player's number, team, name, team code, position, and price.
 
-## Dataset Example
-(1) Peter - Bijan Robinson (Atl - RB) - $57
-(2) Connor - Trevor Lawrence (Jax - QB) - $9
-(3) Connor - Josh Jacobs (LV - RB) - $43
-(4) Peter - Justin Jefferson (Min - WR) - $71
-(5) Arash - Breece Hall (NYJ - RB) - $30
-
 ## How It Works
 
 1. **Parsing the Data**: The script utilizes a regular expression to match the specific pattern in each line of the provided data. The pattern is broken down into the following groups:
@@ -46,6 +39,14 @@ This tool is designed to parse emailed mock draft results from a given string an
 - **Changing the Output Filename**: If you want to change the name or path of the output CSV file, modify the `csv_file_path` variable in the script.
 
 - **Adjusting the Parsing Pattern**: If the input data format changes, you may need to update the regular expression inside the `parse_line` function to match the new pattern.
+
+## Dataset Example
+I copied and pasted these data directly from the list of emailed results.
+(1) Peter - Bijan Robinson (Atl - RB) - $57 
+(2) Connor - Trevor Lawrence (Jax - QB) - $9 
+(3) Connor - Josh Jacobs (LV - RB) - $43 
+(4) Peter - Justin Jefferson (Min - WR) - $71 
+(5) Arash - Breece Hall (NYJ - RB) - $30 
 
 ## Support
 
